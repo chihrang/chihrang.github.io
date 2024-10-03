@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Chihrang"
+title                    : "About"
 title_separator          : "-"
-name                     : &name "Chihrang"
+name                     : &name "About"
 description              : &description "personal description"
 url                      : https://chihrang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
